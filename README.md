@@ -1,2 +1,0 @@
-# ToastApp
-sample project
